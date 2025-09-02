@@ -1,0 +1,13 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pandas==2.2.2
+numpy==1.26.4
+openpyxl==3.1.5
+python-docx==1.1.2
+lxml==5.2.2
+pdfminer.six==20240706
+google-api-python-client==2.142.0
+google-auth==2.33.0
+google-auth-httplib2==0.2.0
+google-auth-oauthlib==1.2.1
+python-multipart==0.0.9
